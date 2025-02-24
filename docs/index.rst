@@ -50,3 +50,6 @@ Index
 
 * :ref:`genindex`
 * :ref:`modindex`
+
+Code of Conduct
+===============
