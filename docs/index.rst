@@ -3,8 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Cookiecutter: Better Project Templates
 ======================================
+
+.. _code-of-conduct:
+
+Code of Conduct
+===============
+
+.. toctree::
+   :maxdepth: 2
+
+   CODE_OF_CONDUCT
 
 Cookiecutter creates projects from **cookiecutters** (project templates), e.g. Python package projects from Python package templates.
 
@@ -51,5 +62,4 @@ Index
 * :ref:`genindex`
 * :ref:`modindex`
 
-Code of Conduct
-===============
+
